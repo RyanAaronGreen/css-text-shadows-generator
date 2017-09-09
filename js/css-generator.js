@@ -9,7 +9,7 @@ var model = {
 	blue: 0,
 	alpha: 0.6,
 	hexValue: '#000000',
-	codeValue: 'text-shadow:2px 2px 2px rgba(0, 0, 0, 0.6)'
+	codeValue: 'text-shadow:2px 2px 2px rgba(0, 0, 0, 0.7)'
 };
 
 
@@ -170,6 +170,3 @@ var controller = {
 };
 
 controller.init();
-
-
-
